@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+"INGRESE EL PRIMER NUMERO"
+5
+1
+2
+N1
+4
+1
+28
+" INGRESE EL SEGUNDO NUEMRO"
+5
+1
+2
+N2
+7
+0
+1
+5
+N1>N2
+7
+0
+1
+5
+N1=N2
+4
+1
+18
+" EL MAYOR ES ",N1
+13
+4
+1
+14
+"ÇSON IGUALES"
+13
+13
+4
+1
+18
+" EL MAYOR ES ",N2
+13
+1
